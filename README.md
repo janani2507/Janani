@@ -3,4 +3,6 @@ day1
 day2 
           logo creation 
 day3
-          figma download
+          figma download and a small introduction to figma
+day4 
+          creating gmail using figma
