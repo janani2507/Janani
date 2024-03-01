@@ -6,3 +6,5 @@ day3
           figma download and a small introduction to figma
 day4 
           creating gmail using figma
+day5
+          using pugins for icons and creating them using SVG,glassmorphism in figma
